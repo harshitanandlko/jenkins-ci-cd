@@ -9,7 +9,7 @@ public class DemoController {
 
     @GetMapping("/hello")
     public String helloWorld(){
-        return "Welcome";
+        return "Welcome to Jenkins Demo";
     }
 
     @GetMapping("/greetings/{name}")
