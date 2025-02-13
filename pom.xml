@@ -8,6 +8,7 @@
         <version>3.4.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <packaging>war</packaging>
     <groupId>org.hc</groupId>
     <artifactId>demo</artifactId>
