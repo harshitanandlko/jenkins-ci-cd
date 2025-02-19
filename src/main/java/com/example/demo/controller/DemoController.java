@@ -17,7 +17,4 @@ public class DemoController {
         return "Hello "+name +" Congratulations!";
     }
 
-    // Testing github
-    // Code
-    // New Stuff
 }
